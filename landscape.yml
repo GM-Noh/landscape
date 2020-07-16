@@ -2514,6 +2514,11 @@ landscape:
         name: Certified Kubernetes - Distribution
         items:
           - item:
+            name: Cheetah AI Machine Learning Platform
+            homepage_url: 'https://n3ncloud.co.kr/cheetah'
+            logo: cheetah.svg
+            crunchbase: 'https://www.crunchbase.com/organization/n3n-cloud'
+          - item:
             name: Agile Stacks DevOps Automation Platform
             homepage_url: 'https://www.agilestacks.com'
             logo: 'https://www.cncf.io/wp-content/uploads/2018/04/agile-01.svg'
@@ -6121,6 +6126,11 @@ landscape:
       - subcategory:
         name: Silver
         items:
+          - item:
+            name: n3ncloud (member)
+            homepage_url: 'https://n3ncloud.co.kr'
+            logo: n3ncloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/n3n-cloud'
           - item:
             name: 1NCE (member)
             homepage_url: 'https://1nce.com/en'
